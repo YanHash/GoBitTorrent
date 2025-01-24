@@ -8,7 +8,7 @@ BitTorrent is a peer-to-peer protocol (p2p) used for file distribution on the in
 ## Where to find peers
 In order to keep the projet legal and stay away from piracy, I will be using a Linux Debian ISO as a test file to be downloaded. Therefore, to find peers that wille allow me to download this file, I will rely on official [Debian BitTorent Tracker](http://bttracker.debian.org:6969/)
 
-##.torrent file
+## .torrent file
 A . torrent file is afile that contains the description of a file that will be downloaded in addition to informations for connecting to a tracker.
 This file is encoded in a format named **Bencode**. This format is used primarily by the BitTorrent protocol. It is designed to be simple, quick to parse, and easy to use in resource-constrained environments. Bencode supports four types of data: integers, strings, lists and dictionaries.
 
